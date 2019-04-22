@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">ForegroundServiceTest</string>
+  <string name="notification_channel_name">ForegroundServiceChannel</string>
+  <string name="notification_channel_description">This is the Channel we want to create in order to show how to manage
+    Foreground services into an Android application.
+  </string>
+  <string name="start_service">START SERVICE</string>
+  <string name="stop_service">STOP SERVICE</string>
+  <string name="service_description">Counter Service for Testing Foreground Services</string>
+</resources>
